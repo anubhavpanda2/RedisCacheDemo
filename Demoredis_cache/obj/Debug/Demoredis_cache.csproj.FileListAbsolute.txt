@@ -1,0 +1,8 @@
+D:\projects\Demoredis_cache\Demoredis_cache\bin\Debug\Demoredis_cache.exe.config
+D:\projects\Demoredis_cache\Demoredis_cache\bin\Debug\Demoredis_cache.exe
+D:\projects\Demoredis_cache\Demoredis_cache\bin\Debug\Demoredis_cache.pdb
+D:\projects\Demoredis_cache\Demoredis_cache\bin\Debug\StackExchange.Redis.dll
+D:\projects\Demoredis_cache\Demoredis_cache\bin\Debug\StackExchange.Redis.xml
+D:\projects\Demoredis_cache\Demoredis_cache\obj\Debug\Demoredis_cache.csprojResolveAssemblyReference.cache
+D:\projects\Demoredis_cache\Demoredis_cache\obj\Debug\Demoredis_cache.exe
+D:\projects\Demoredis_cache\Demoredis_cache\obj\Debug\Demoredis_cache.pdb
